@@ -1,6 +1,6 @@
 
 
-import Title from './components/title';
+import Title from '../components/title';
 
 function App() {
   return (

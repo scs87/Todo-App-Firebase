@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-
+import firebase from './';
 
 
 
@@ -17,5 +17,5 @@ export const Forms = () => {
             <button className='button-add' type='submit'>Add wish</button>
 
         </form>
-    )
+    );
 }
